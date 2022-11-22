@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/SBLogoFull.png"/>
+  <img src="assets/SBLogoFull.png" width="50%"/>
 </div>
 
 StuddyBuddy is an interactive tutoring app designed to help people of various backgrounds learn together. The app pairs users based on their learning goals, and then provides a forum for them to work together and learn from each other.
